@@ -1,5 +1,8 @@
 body{ 
 background: darkgoldenrod;
-color: azure
+color: azure;
+margin: 55px;
+padding: 55px;
+border: 55px;
 
 }

@@ -1,8 +1,7 @@
 body{ 
 background: darkgoldenrod;
 color: azure;
-margin: 100px;
-padding: 100px;
-border: 100px;
-
+columns: 350px;
+column-gap: 350px;
+column-count: initial;
 }

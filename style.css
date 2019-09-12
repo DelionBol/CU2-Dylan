@@ -1,7 +1,53 @@
-body{ 
-background: darkgoldenrod;
-color: azure;
-columns: 350px;
-column-gap: 350px;
-column-count: initial;
-}
+body {
+    background-color: #e5ff00;
+    color: black;
+    font-family: 'comic sans', Times, serif;
+    }
+    
+    h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+    
+    h2{
+        font-size: 20px;
+        font-style: italic;
+        text-align: center;
+    }
+    
+    h3{
+        font-size: 30px;
+        font-style: comic sans;
+        color: #000000;
+        text-align: center;
+    }
+    
+    p{
+        text-align: center;
+    }
+    
+    #container {
+        width: 100%;
+        margin: 0 auto;
+    }
+    #primary {
+        float: left;
+        width: 20%;
+        background-color: #e5ff00;
+        text-align: center;
+    }
+    #content {
+        float: left;
+        width: 60%;
+        background-color: white;
+    }
+    #secondary {
+        float: left;
+        width: 20%;
+        background-color: #e5ff00;
+        text-align: center;
+    }
+    #footer {
+        clear: both;
+    
+    }

@@ -1,5 +1,5 @@
 body {
-    background-color: #e5ff00;
+    background-color: #7FA9F0;
     color: black;
     font-family: 'comic sans', Times, serif;
     }
@@ -33,7 +33,7 @@ body {
     #primary {
         float: left;
         width: 20%;
-        background-color: #e5ff00;
+        background-color: #7FA9F0;
         text-align: center;
     }
     #content {
@@ -44,7 +44,7 @@ body {
     #secondary {
         float: left;
         width: 20%;
-        background-color: #e5ff00;
+        background-color: #7FA9F0;
         text-align: center;
     }
     #footer {
